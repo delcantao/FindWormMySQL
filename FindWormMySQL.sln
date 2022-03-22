@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWormMySQL", "FindWormMySQL.csproj", "{223BA963-890E-466F-91E0-9ED22650E789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223BA963-890E-466F-91E0-9ED22650E789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223BA963-890E-466F-91E0-9ED22650E789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223BA963-890E-466F-91E0-9ED22650E789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223BA963-890E-466F-91E0-9ED22650E789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA9BE3F-8F92-4947-BF27-4CF64472FC32}
+	EndGlobalSection
+EndGlobal
