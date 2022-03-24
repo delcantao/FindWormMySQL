@@ -12,7 +12,7 @@ var dbs = new List<string>()
     "gracac23_principal",
     "gracac23_wpfirst"
 };
- 
+
 foreach (var db in dbs)
 {
     if (db.Equals(string.Empty)) continue;
